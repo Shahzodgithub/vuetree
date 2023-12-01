@@ -1,6 +1,6 @@
 <template>
     <div class="max-w-sm rounded overflow-hidden shadow-lg dark:bg-gray-800 view">
-        <h4 class="text-center text-white text-xl font-semibold mb-4">VueTreeView</h4>
+        <h4 class="text-center text-white text-xl font-semibold mb-4">TesT VUE</h4>
         <ul class="max-w-md space-y-1 text-gray-500 list-none dark:text-gray-400">
             <tree-node class="item" :item="treeData" @selection-change="handleSelectionChange"
                 @add-item="addItem"></tree-node>
